@@ -9,3 +9,4 @@
   </p>
 - 🔭 I currently work as a Systems Analyst</br >
 - 🌱 learning .NET,SQL and Power BI</br > 
+@@ -0,0 +1 @@
