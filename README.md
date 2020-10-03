@@ -8,4 +8,4 @@
   </a>
   </p>
 - 🔭 I currently work as a Systems Analyst</br >
-- 🌱 learning .NET,SQL and Power BI</br > 
+- 🌱 learning BI</br > 
